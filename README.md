@@ -11,3 +11,5 @@ Interested in learning more about Full-Stack development.
 - Web Technologies
 
 Also have done some programming in Swift for Accenture iOS Bootcamp.
+More down below 👇
+                
