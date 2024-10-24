@@ -10,6 +10,6 @@ Interested in learning more about Full-Stack development.
 - Databases, SQL
 - Web Technologies
 
-Also have done some programming in Swift for Accenture iOS Bootcamp.
+Also have done some programming in Swift for Accenture iOS Bootcamp (Calculator, ToDoList)
 More down below 👇
                 
